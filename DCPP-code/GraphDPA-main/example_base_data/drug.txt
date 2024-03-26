@@ -1,0 +1,11 @@
+Curcumin	COc1cc(ccc1O)\C=C\C(=O)CC(=O)\C=C\c1ccc(O)c(OC)c1
+(+)-Pilocarpine hydrochloride	O1C(=O)[C@H]([C@H](C1)Cc1cncn1C)CC.Cl
+(-)-Arctigenin	c1c(cc(c(c1)O)OC)C[C@@H]1[C@H](COC1=O)Cc1cc(c(cc1)OC)OC
+Hesperetin	c12c(c(cc(c1)O)O)C(=O)C[C@H](O2)c1ccc(c(c1)O)OC
+Arctigenin	c1c(cc(c(c1)O)OC)C[C@@H]1[C@H](COC1=O)Cc1cc(c(cc1)OC)OC
+(±)-Catechin hydrate	O[C@@H](C1)[C@@H](c(cc2)cc(O)c2O)Oc2c1c(O)cc(O)c2
+Diffractaic Acid	Cc1cc(c(c(c1C(=O)O)O)C)OC(=O)c1c(c(c(cc1C)OC)C)OC
+10-Gingerol	CCCCCCCCC[C@H](O)CC(=O)CCc1ccc(O)c(OC)c1
+Dehydrocorydaline chloride	[Cl-].COc1cc2CC[n+]3cc4c(OC)c(OC)ccc4c(C)c3-c2cc1OC
+Sciadopitysin	COc1ccc(cc1)-c1cc(=O)c2c(O)cc(O)c(-c3cc(ccc3OC)-c3cc(=O)c4c(O)cc(OC)cc4o3)c2o1
+Mangostin	COc1c(O)cc2oc3cc(O)c(C\C=C(\C)C)c(O)c3c(=O)c2c1C\C=C(\C)C
